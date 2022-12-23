@@ -1,7 +1,6 @@
 public class homeWork {
     public static void main (String [] args){
 
-
         String firstName = "Ivan";
         String lastName = "Ivanov";
         String middleName = "Ivanovich";
